@@ -170,8 +170,8 @@ width: 100%;
     position: absolute;
     text-align: left;
     padding-left: 50px;
-    top: 980px;
-    margin-top: 980px;
+    top: 1250px;
+    margin-top: 1000px;
     color: #8ed1fc;
     font-family: 'Montserrat';
     font-style: italic;
@@ -190,7 +190,7 @@ width: 100%;
     position: absolute;
     text-align: left;
     padding-left: 50px;
-    top: 2100px;
+    top: 2300px;
     margin-top: 1000px;
     color: #8ed1fc;
     font-family: 'Montserrat';
@@ -198,6 +198,7 @@ width: 100%;
     font-size: 20px;
     line-height: 2.4rem;
 }
+
 
 *{
     padding: 0%;
